@@ -1,0 +1,55 @@
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe.config
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.pdb
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.DemoModeForm.resources
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.MainForm.resources
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.OperationModeForm.resources
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.exe
+C:\Users\Administrator\Desktop\2 курс\Лабы\Структуры и алгоритмы (ЛАБЫ)\Laba4_ShellSort\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.pdb
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe.config
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.pdb
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csprojAssemblyReference.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.DemoModeForm.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.MainForm.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.OperationModeForm.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.Properties.Resources.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csproj.GenerateResource.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csproj.CoreCompileInputs.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.pdb
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe.config
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.exe
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\bin\Debug\Laba4_ShellSort.pdb
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.DemoModeForm.resources
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.MainForm.resources
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.OperationModeForm.resources
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.exe
+C:\Users\Анастасия\Desktop\Laba4_ShellSort\obj\Debug\Laba4_ShellSort.pdb
+C:\Users\пк\Downloads\ShellSort-master\bin\Debug\Laba4_ShellSort.exe.config
+C:\Users\пк\Downloads\ShellSort-master\bin\Debug\Laba4_ShellSort.exe
+C:\Users\пк\Downloads\ShellSort-master\bin\Debug\Laba4_ShellSort.pdb
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.csprojAssemblyReference.cache
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.MainForm.resources
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.Properties.Resources.resources
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.csproj.GenerateResource.cache
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.exe
+C:\Users\пк\Downloads\ShellSort-master\obj\Debug\Laba4_ShellSort.pdb
+C:\Users\пк\Downloads\ShellSort-master2\bin\Debug\Laba4_ShellSort.exe.config
+C:\Users\пк\Downloads\ShellSort-master2\bin\Debug\Laba4_ShellSort.exe
+C:\Users\пк\Downloads\ShellSort-master2\bin\Debug\Laba4_ShellSort.pdb
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.csprojAssemblyReference.cache
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.MainForm.resources
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.Properties.Resources.resources
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.csproj.GenerateResource.cache
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.exe
+C:\Users\пк\Downloads\ShellSort-master2\obj\Debug\Laba4_ShellSort.pdb
